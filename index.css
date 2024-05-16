@@ -211,3 +211,15 @@
     margin-top: 2rem;
    
   }
+
+  @media screen and (max-width: 1000px) {
+    /* CSS rules for phone screens go here */
+
+    .feautures{
+      display: flex;
+      flex-direction: column;
+      background-color: red;
+    }
+  }
+
+  
